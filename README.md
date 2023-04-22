@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/pepsi-wyl?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/pepsi-wyl?template=classic&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stock=false&stock.duration=1d&stock.interval=5m&config.timezone=Asia%2FShanghai)
