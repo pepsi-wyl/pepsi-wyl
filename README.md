@@ -25,142 +25,34 @@
 #  🙋 Hello
 
 <table>
-<tr><td>
-
+  
+<tr>
+  <td>
 <!-- About me 关于我 -->
 ### 🤺 About Me
-  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
+<p>&emsp;&emsp;大家好，我是武扬岚。</p>
+<p>&emsp;&emsp;目前就读于南阳理工学院计算机与软件学院软件工程专业。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
-
-</td></tr>
+  </td>
+</tr>
 
 <tr>
-<td>
-  
+  <td>
 ### 🏢 Work Experience
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-  
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> 
 <!-- - [广州图慧信息科技有限公司](https://120.79.217.107/) &emsp; 📌 Todo
   
   - 工作岗位：Web前端开发工程师
-  - 工作内容：GIS相关 -->
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-15
-  
-  - 工作岗位：Web前端开发实习生
-  - 工作方向：一站式数据治理与开发
-
-</td>
+  - 工作内容：GIS相关 
+-->
+  </td>
 </tr>
 
-<tr><td>
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/pages/9de702/' target='_blank'>console.log("Hello World")</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/9207e1/' target='_blank'>前端发展简史</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/0ef920/' target='_blank'>前端学习路线</a> - 2023-04-02
-* <a href='https://brain.sunguoqi.com/pages/bc9176/' target='_blank'>todo</a> - 2023-04-22
-* <a href='https://brain.sunguoqi.com/pages/ee9f4d/' target='_blank'>todo</a> - 2023-04-22
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-🌆 Daytime                320 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-🌃 Evening                467 commits         ██████████░░░░░░░░░░░░░░░   41.88 % 
-🌙 Night                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Tuesday                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Thursday                 108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Friday                   289 commits         ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-Saturday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   29 hrs 34 mins      ████████████████████░░░░░   78.00 % 
-Markdown                 5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-JavaScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-TypeScript               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-LESS                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-🔥 Editors: 
-VS Code                  37 hrs 54 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      37 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/04/2023 01:23:07 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
